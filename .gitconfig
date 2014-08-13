@@ -1,0 +1,12 @@
+[core]
+[core]
+	excludesfile = /home/josh/.gitignore_global
+[user]
+	name = Josh Burroughs
+	email = josh@qhool.com
+[color]
+	ui = auto
+[push]
+#	default = simple
+[push]
+	default = simple
